@@ -1,0 +1,2865 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title>기상청 육상 중기예보</title>
+<link>http://www.kma.go.kr/weather/forecast/mid-term_03.jsp</link>
+<description>기상청 날씨 웹서비스</description>
+<language>ko</language>
+<generator>기상청</generator>
+<pubDate>2022년 11월 01일 (화)요일 18:00</pubDate>
+ <item>
+<author>기상청</author>
+<category>육상중기예보</category>
+<title>강원도 육상 중기예보 - 2022년 11월 01일 (화)요일 18:00 발표</title>
+<link>http://www.kma.go.kr/weather/forecast/mid-term_03.jsp</link>
+<guid>http://www.kma.go.kr/weather/forecast/mid-term_03.jsp</guid>
+<description>
+	<header>
+		<title>강원도 육상중기예보</title>
+		<tm>202211011800</tm>
+		<wf><![CDATA[○ (하늘상태) 이번 예보기간에는 대체로 맑은 날이 많겠으나, 9일(수)~10일(목)은 구름많겠습니다.<br />○ (기온) 5일(토)~6일(일) 아침 기온은 -5~7도, 낮 기온은 8~16도로 평년(최저기온 0~9도, 최고기온 11~18도)보다 낮겠고,<br />          7일(월)~11일(금) 아침 기온은 -2~11도, 낮 기온은 11~18도로 평년(최저기온 -1~9도, 최고기온 9~17도)과 비슷하거나 조금 높겠습니다.<br />○ (해상) 동해중부해상의 물결은 1.0~2.0m로 일겠습니다.<br />○ (주말전망) 5일(토)~6일(일)은 대체로 맑겠습니다. 아침 기온은 -5~7도, 낮 기온은 8~16도가 되겠습니다.<br /><br />* 이번 예보 기간에는 대기가 차차 건조해지겠으니, 산불 등 화재예방에 유의하기 바랍니다.]]></wf>
+	</header>
+	<body>
+				
+
+		<location wl_ver="3">
+				<province>강원도영서</province>
+				<city>원주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>11</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>11</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>2</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>2</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>2</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>2</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>6</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>6</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>6</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-10 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>7</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>강원도영서</province>
+				<city>철원</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>9</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>9</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-1</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-1</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>5</tmn>
+					<tmx>15</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>5</tmn>
+					<tmx>15</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>6</tmn>
+					<tmx>15</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-10 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>5</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>6</tmn>
+					<tmx>15</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>강원도영서</province>
+				<city>화천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>1</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>1</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>2</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>2</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>5</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>5</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>7</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-10 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>6</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>강원도영서</province>
+				<city>인제</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-1</tmn>
+					<tmx>11</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-1</tmn>
+					<tmx>11</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>11</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>11</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>1</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>1</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>6</tmn>
+					<tmx>15</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>6</tmn>
+					<tmx>15</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>6</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-10 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>6</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>6</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>강원도영서</province>
+				<city>양구</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>11</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>11</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>1</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>1</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>5</tmn>
+					<tmx>15</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>5</tmn>
+					<tmx>15</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>6</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-10 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>5</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>강원도영서</province>
+				<city>춘천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-1</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-1</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>1</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>1</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>2</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>2</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>6</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>6</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>7</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-10 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>7</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>강원도영서</province>
+				<city>홍천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>11</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>11</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>2</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>2</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>5</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>5</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>5</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-10 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>6</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>강원도영서</province>
+				<city>횡성</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>11</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>11</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>1</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>1</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>6</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>6</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>6</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-10 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>6</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>강원도영서</province>
+				<city>영월</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>1</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>1</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>5</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>5</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>6</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-10 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>7</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>강원도영서</province>
+				<city>정선</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>1</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>1</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>4</tmn>
+					<tmx>15</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>4</tmn>
+					<tmx>15</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>5</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-10 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>7</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>강원도영서</province>
+				<city>평창</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>11</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>11</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>15</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>15</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>4</tmn>
+					<tmx>15</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>4</tmn>
+					<tmx>15</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>6</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-10 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>5</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>6</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>강원도영서</province>
+				<city>대관령</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>7</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>7</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>8</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>8</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>10</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
+					<tmx>10</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-2</tmn>
+					<tmx>11</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>11</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>3</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>3</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>4</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-10 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>4</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-11 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>4</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>강원도영동</province>
+				<city>강릉</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>5</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>5</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>4</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>4</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-10 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-11 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>강원도영동</province>
+				<city>태백</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>10</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>10</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>10</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>10</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>4</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>4</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>4</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-10 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>5</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-11 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>5</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>강원도영동</province>
+				<city>속초</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>3</tmn>
+					<tmx>11</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>3</tmn>
+					<tmx>11</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>3</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>3</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>5</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>5</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>6</tmn>
+					<tmx>15</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>6</tmn>
+					<tmx>15</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>8</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-10 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-11 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>강원도영동</province>
+				<city>고성</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>2</tmn>
+					<tmx>11</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>2</tmn>
+					<tmx>11</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>2</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>2</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>4</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>4</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>5</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>5</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>8</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>9</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-10 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>8</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-11 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>강원도영동</province>
+				<city>양양</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>4</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>4</tmn>
+					<tmx>12</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>4</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>4</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>6</tmn>
+					<tmx>15</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>6</tmn>
+					<tmx>15</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-10 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-11 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>강원도영동</province>
+				<city>동해</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>5</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>5</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>4</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>4</tmn>
+					<tmx>14</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>6</tmn>
+					<tmx>15</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>6</tmn>
+					<tmx>15</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>6</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>6</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>9</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>10</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-10 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-11 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>10</tmn>
+					<tmx>17</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>강원도영동</province>
+				<city>삼척</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>5</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-04 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>5</tmn>
+					<tmx>13</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>4</tmn>
+					<tmx>15</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-05 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>4</tmn>
+					<tmx>15</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>15</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-06 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>15</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-07 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>7</tmn>
+					<tmx>16</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-11-08 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>10</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-09 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>11</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-10 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>9</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-11-11 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>11</tmn>
+					<tmx>18</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+
+	
+
+	</body>
+</description>
+</item>
+</channel>
+</rss>	
